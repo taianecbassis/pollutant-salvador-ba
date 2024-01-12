@@ -17,4 +17,4 @@ Os dados foram coletados pela rede de monitoramento da qualidade do ar, a partir
 
 Este estudo foi concebido para cumprimento de requisito obrigatório para obtenção do título de Mestre em Engenharia Industrial pela Universidade Federal da Bahia (UFBA).
 
-
+-------------------------------------------------------------------------------------------------------------------
