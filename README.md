@@ -1,4 +1,4 @@
-# ts_pollutant_ssa
+# pollutant-salvador-ba
  Description: 
 
  This repository was created for the analysis and prediction of time series of atmospheric pollutant concentrations in the city of Salvador-Ba (Brazil).
